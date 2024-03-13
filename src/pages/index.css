@@ -1,0 +1,22 @@
+.box {
+  width: 50px;
+  height: 50px;
+  background: pink;
+  border: 1px solid #000;
+}
+
+.container {
+  width: 300px;
+  height: 300px;
+  background: green;
+}
+.space-align-box {
+  margin: 8px 4px;
+  padding: 4px;
+  border: 1px solid #000;
+}
+.space-align-box span {
+  display: inline-block;
+  padding: 32px 8px 16px;
+  background: rgba(150, 150, 150, 0.2);
+}
